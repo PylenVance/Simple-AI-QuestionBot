@@ -1,6 +1,10 @@
 # Simple-AI-QuestionBot
 Ask this bot a question and it will generate a response using ChatGPT's API response
 
+What does this come with?
+- [x] Check if input is a valid question
+- [ ] Ready for discord bot use
+- [ ] Can handle in depth questions
 
 YOU NEED A VALID OPEN AI API KEY TO USE THIS.
 
